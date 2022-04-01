@@ -9,7 +9,7 @@ intuitiva.
 3 - IDEs e Outros (Visual Code, Eclipse, Scene Build, PgAdmin), Usaremos uma List, (PostgreSQL), Biblioteca 
 (javafx)
 
-4 - Ainda para fazer
+4 - Feito
 
 5 - Feito
 
